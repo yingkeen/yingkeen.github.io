@@ -1,0 +1,18 @@
+entries:
+  - title: Me
+    entries:
+      - title: about me
+        url: /about-me
+      - title: linkedin
+        url: https://linkedin.com/in/yingkeen
+  - title: My Posts
+    post_list:
+      limit: 10
+      show_more: true
+      show_more_text: See more...
+      show_more_url: archive.html
+  - title: Projects
+    entries:
+      - title: coming soon
+  - title: RSS
+    url: feed.xml
