@@ -2,8 +2,6 @@
 layout: post
 ---
 
-# 🛠️ Setting Up Raspberry Pi with 3.5" Touch Screen (XPT2046)
-
 Just documenting how I set up the 3.5" touchscreen (XPT2046) on my Raspberry Pi 4 for future reference. I followed the instructions from [LCD Wiki](http://www.lcdwiki.com/3.5inch_RPi_Display).
 
 ---
