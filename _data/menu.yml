@@ -5,7 +5,7 @@ entries:
         url: /about-me
       - title: linkedin
         url: https://linkedin.com/in/yingkeen
-  - title: My Posts
+  - title: My Random Notes
     post_list:
       limit: 10
       show_more: true
