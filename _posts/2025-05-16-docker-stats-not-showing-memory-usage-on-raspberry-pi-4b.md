@@ -7,7 +7,9 @@ I noticed that `docker stats` wasn't showing memory usage on my Raspberry Pi 4B 
 The memory-related columns like **MEM USAGE / LIMIT** and **MEM %** were showing zeros for all containers.
 ![0 memory usage](/assets/img/0-memory-usage.png)
 
-## Solution
+---
+
+## 🔧 Solution
 
 Enable memory cgroup support by modifying the boot parameters:
 
