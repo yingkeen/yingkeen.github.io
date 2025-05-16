@@ -11,8 +11,5 @@ entries:
       show_more: true
       show_more_text: See more...
       show_more_url: archive.html
-  - title: Projects
-    entries:
-      - title: coming soon
   - title: RSS
     url: feed.xml
