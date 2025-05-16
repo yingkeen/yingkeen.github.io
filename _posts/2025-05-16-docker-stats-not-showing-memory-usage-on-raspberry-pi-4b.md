@@ -30,6 +30,7 @@ Enable memory cgroup support by modifying the boot parameters:
 After rebooting, `docker stats` should now correctly show memory usage for all containers.
 ![showing memory usage](/assets/img/showing-memory-usage.png)
 
+---
 
 ## 🔗 References
 
